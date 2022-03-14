@@ -93,7 +93,8 @@ class _MyHomePageState extends State<MyHomePage> {
           // center the children vertically; the main axis here is the vertical
           // axis because Columns are vertical (the cross axis would be
           // horizontal).
-          // Test로 GitHub에 commint 하기 위한것입니다
+          // Test로 GitHub에 commit 하기 위한것입니다
+          // branch 후 다시 master로 commit
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
